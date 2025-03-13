@@ -24,7 +24,7 @@ Android Killer 的详细使用教程请[参考此文](https://blog.csdn.net/yiran1919/articl
   - 更新 adb 和 busybox，版本忘了（能用就行，不能再说 ?）
   - 更新 apktool.jar 至 v2.11.1
   - 更新 dex2jar 至 v2.4
-  - 弃用 Android Killer 内置的 jd-gui，使用自己编写的中间程序 [ak-support-jadx-gui](../../../android-killer-support-jadx-gui) 将操作转发至 jadx-gui
+  - 弃用 Android Killer 内置的 jd-gui，使用自己编写的中间程序 [android-killer-jadx-gui-support](../../../android-killer-jadx-gui-support) 将操作转发至 jadx-gui
 - `tools/`
   - 添加 [ApkScan PKID](http://www.legendsec.org/1888.html) 查壳工具（工具年代久远，效果无法保证，建议寻找替代方案）
   - 添加 [InjectLog](https://www.52pojie.cn/thread-743758-1-1.html) 日志工具，又见 [Android 应用逆向——分析反编译代码之大神器](https://blog.csdn.net/charlessimonyi/article/details/52027563)
