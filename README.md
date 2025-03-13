@@ -1,48 +1,56 @@
 # Android Killer
 
-ä»…ä»…åªæ˜¯æ•´åˆæ›´æ–°äº†ç»å…¸çš„ Android åç¼–è¯‘å·¥å…·ï¼šAndroid Killerï¼Œè®©å®ƒå†æˆ˜ 20 å¹´ï¼
+> Attention: This project uses charset GB2312 for compatibly reason.
+>
+> ×¢Òâ£º³öÓÚ¼æÈİĞÔÔ­Òò£¬±¾ÏîÄ¿Ê¹ÓÃ GB2312 ×Ö·û¼¯¡£
 
-æ€è·¯å’Œæ–¹æ³•æ¥è‡ªå¤§ä½¬[æ˜¨å¤œæ˜Ÿè¾° 2012](https://www.52pojie.cn/home.php?mod=space&uid=571540&do=profile&from=space) çš„ [AndroidKiller å®‰è£…ã€è®¾ç½®åŠä½¿ç”¨æ•™ç¨‹](https://www.52pojie.cn/thread-726176-1-1.html)ã€‚
+ÕûºÏ²¢¸üĞÂ×î×î×î×î¾­µäµÄ Android ·´±àÒë¹¤¾ß ¡ª¡ª Android Killer£¬ÈÃËüÔÙÕ½ 20 Äê£¡
 
-> å·¥å…·æ¯•ç«Ÿå¾ˆè€äº†ï¼Œæ— è®ºæ˜¯ç•Œé¢è¿˜æ˜¯åŠŸèƒ½ä¸Šéƒ½å¾ˆéš¾å¾—åˆ°ä¿è¯ï¼Œåœ¨æ­¤è¿˜æ˜¯æ¨è JEB Decompiler 3 ç­‰ä»åœ¨ç»´æŠ¤çš„åç¼–è¯‘å·¥å…·ã€‚
+Ë¼Â·ºÍ·½·¨À´×Ô´óÀĞ[×òÒ¹ĞÇ³½ 2012](https://www.52pojie.cn/home.php?mod=space&uid=571540&do=profile&from=space) µÄ [AndroidKiller °²×°¡¢ÉèÖÃ¼°Ê¹ÓÃ½Ì³Ì](https://www.52pojie.cn/thread-726176-1-1.html)¡£
 
-## é£Ÿç”¨æ–¹æ³•
+¹¤¾ß±Ï¾¹ºÜÀÏÁË£¬ÎŞÂÛÊÇ½çÃæ»¹ÊÇ¹¦ÄÜÉÏ¶¼²»¾¡ÈËÒâ£¬Ğ¡µÄÔÚ´Ë»¹ÊÇÍÆ¼ö¿Í¹Ù³¢ÊÔ JEB Decompiler 3 µÈÈÔÔÚÎ¬»¤µÄ Android ·´±àÒë¹¤¾ß¡£
 
-ç‚¹å‡»[æ­¤å¤„](../../archive/refs/heads/main.zip)ä¸‹è½½æœ€æ–°å‹ç¼©åŒ…ï¼Œè§£å‹åæ‰“å¼€ç›®å½•ï¼ŒåŒå‡»å¯åŠ¨ AndroidKiller.exe å³å¯ä½¿ç”¨ã€‚
+## Ê¹ÓÃ
 
-Android Killer çš„ä½¿ç”¨æ–¹æ³•è¯·[å‚è€ƒæ­¤æ–‡](https://blog.csdn.net/yiran1919/article/details/132760445)æˆ–è‡ªè¡Œæœç´¢ã€‚
+µã»÷[´Ë´¦](../../archive/refs/heads/main.zip)ÏÂÔØ×îĞÂÑ¹Ëõ°ü£¬½âÑ¹ºó´ò¿ªÄ¿Â¼£¬Ë«»÷Æô¶¯ AndroidKiller.exe ¼´¿É¡£
 
-**æ³¨æ„äº‹é¡¹ï¼šä½¿ç”¨æœ¬å·¥å…·å‰ï¼Œæ‚¨éœ€è¦åœ¨ç”µè„‘é…ç½®å¥½ Java è¿è¡Œç¯å¢ƒã€‚**
+Android Killer µÄÏêÏ¸Ê¹ÓÃ½Ì³ÌÇë[²Î¿¼´ËÎÄ](https://blog.csdn.net/yiran1919/article/details/132760445)»ò×ÔĞĞËÑË÷¡£
 
-## æ•´åˆæ›´æ–°å†…å®¹
+**×¢ÒâÊÂÏî£ºÊ¹ÓÃ±¾¹¤¾ßÇ°£¬ÄúĞèÒªÔÚµçÄÔÅäÖÃºÃ Java ÔËĞĞ»·¾³¡£**
+
+## ¸üĞÂÄÚÈİ
 
 - `bin/`
-  - æ›´æ–° **adb** å’Œ **busybox**ï¼Œç‰ˆæœ¬æœªçŸ¥ï¼ˆèƒ½ç”¨å°±å¯ä»¥ï¼Œä¸å¿…æ›´æ–°ï¼‰
-  - æ›´æ–°é»˜è®¤çš„ **apktool.jar** è‡³ v2.10.0
-  - æ›´æ–° **dex2jar** è‡³ v2.4
-  - å¼ƒç”¨å†…ç½®çš„ **jd-gui**ï¼Œä½¿ç”¨è‡ªå·±ç¼–å†™çš„ç©ºå£³åº”ç”¨ [**ak-support-jadx-gui**](../../../android-killer-support-jadx-gui) æ›¿æ¢ï¼Œå®ç°æ”¹ç”¨ **jadx-gui** è¿›è¡Œé»˜è®¤çš„åç¼–è¯‘æ“ä½œ
+  - ¸üĞÂ adb ºÍ busybox£¬°æ±¾ÍüÁË£¨ÄÜÓÃ¾ÍĞĞ£¬²»ÄÜÔÙËµ ?£©
+  - ¸üĞÂ apktool.jar ÖÁ v2.11.1
+  - ¸üĞÂ dex2jar ÖÁ v2.4
+  - ÆúÓÃ Android Killer ÄÚÖÃµÄ jd-gui£¬Ê¹ÓÃ×Ô¼º±àĞ´µÄÖĞ¼ä³ÌĞò [ak-support-jadx-gui](../../../android-killer-support-jadx-gui) ½«²Ù×÷×ª·¢ÖÁ jadx-gui
 - `tools/`
-  - æ·»åŠ  **ApkScan PKID**ï¼Œæ¥æºäº [APK æŸ¥å£³å·¥å…· PKID](http://www.legendsec.org/1888.html)ï¼Œç”±äºå·¥å…·å¹´ä»£ä¹…è¿œï¼Œæ•ˆæœæ— æ³•ä¿è¯ï¼Œå»ºè®®è‡ªè¡Œå¯»æ‰¾æ›¿ä»£æ–¹æ¡ˆ
-  - æ·»åŠ  **InjectLog**ï¼Œæ¥æºäº [InjectLog å·¥å…·ä½¿ç”¨æ–¹æ³•è¯¦è§£](https://www.52pojie.cn/thread-743758-1-1.html) ä¸ [Android åº”ç”¨é€†å‘â€”â€”åˆ†æåç¼–è¯‘ä»£ç ä¹‹å¤§ç¥å™¨](https://blog.csdn.net/charlessimonyi/article/details/52027563)
-  - æ·»åŠ  **jadx-gui**ï¼Œno-jre ç‰ˆæœ¬ï¼Œæ›´æ–°è‡³ v1.4.7ã€‚ç”±äº GitHub å•æ–‡ä»¶å¤§å°é™åˆ¶ä¸º 100MBï¼Œjadx-gui v1.5.0 è¶…è¿‡é™åˆ¶ï¼Œå› æ­¤ï¼Œå¦‚æ‚¨æœ‰æ›´æ–°éœ€è¦ï¼Œè¯·å‚è€ƒ[è‡ªè¡Œæ›´æ–°æ–¹æ³•ä¹‹ jadx-gui æ›´æ–°æ–¹æ³•](#jadx-gui-æ›´æ–°æ–¹æ³•)
+  - Ìí¼Ó [ApkScan PKID](http://www.legendsec.org/1888.html) ²é¿Ç¹¤¾ß£¨¹¤¾ßÄê´ú¾ÃÔ¶£¬Ğ§¹ûÎŞ·¨±£Ö¤£¬½¨ÒéÑ°ÕÒÌæ´ú·½°¸£©
+  - Ìí¼Ó [InjectLog](https://www.52pojie.cn/thread-743758-1-1.html) ÈÕÖ¾¹¤¾ß£¬ÓÖ¼û [Android Ó¦ÓÃÄæÏò¡ª¡ª·ÖÎö·´±àÒë´úÂëÖ®´óÉñÆ÷](https://blog.csdn.net/charlessimonyi/article/details/52027563)
+  - Ìí¼Ó jadx-gui ÎŞÀ¦°ó jre °æ±¾£¬¸üĞÂÖÁ v1.4.7£¨GitHub ÉÏ´«µ¥ÎÄ¼şÌå»ıÏŞÖÆ 100MB£¬v1.5.0+ °æ±¾³¬ÏŞ£¬ÈçÄúÓĞ¸üĞÂĞèÒª£¬Çë³¢ÊÔ[×ÔĞĞ¸üĞÂ](#jadx-gui-¸üĞÂ·½·¨)£©
 
-## è‡ªè¡Œæ›´æ–°æ–¹æ³•
+## ×ÔĞĞ¸üĞÂ
 
-### apktool æ›´æ–°æ–¹æ³•
-1. ä» [apktool ä¸‹è½½é¡µé¢](https://github.com/iBotPeaches/Apktool/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ **apktool_x.x.x.jar**
-3. æ”¾ç½®åœ¨ `bin/apktool/apktool/` ç›®å½•ä¸‹ï¼Œæ‰“å¼€ **Android Killer** é¦–é¡µçš„ **Android** èœå•å¹¶æ‰“å¼€ **APKTOOL ç®¡ç†å™¨**ï¼Œæ·»åŠ ä¸‹è½½çš„ç‰ˆæœ¬å¹¶è®¾ç½®ä¸ºé»˜è®¤
-   ![å±•ç¤º](pictures/image1.png)
-   ![å±•ç¤º](pictures/image2.png)
+### apktool ¸üĞÂ·½·¨
 
-### dex2jar æ›´æ–°æ–¹æ³•
-1. ä» [dex2jar ä¸‹è½½é¡µé¢](https://github.com/pxb1988/dex2jar/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ **dex-tools-xxx.zip**ï¼ˆæ—§ç‰ˆåä¸º **dex2jar-xxx.zip**ï¼‰
-2. æ¸…ç©º `bin/dex2jar/` ç›®å½•ä¸‹æ–‡ä»¶ï¼Œå°†ä¸‹è½½å¾—åˆ°çš„å‹ç¼©åŒ…å†…å®¹å…¨éƒ¨è§£å‹ç¼©è‡³è¯¥ç›®å½•å³å¯
+1. ´Ó [apktool ÏÂÔØÒ³Ãæ](https://github.com/iBotPeaches/Apktool/releases) ÏÂÔØ×îĞÂ°æµÄ `apktool_x.x.x.jar`
+2. ·ÅÖÃÔÚ `bin/apktool/apktool/` Ä¿Â¼ÏÂ£¬´ò¿ª **Android Killer** Ê×Ò³µÄ **Android** ²Ëµ¥²¢´ò¿ª **APKTOOL ¹ÜÀíÆ÷**£¬Ìí¼ÓÏÂÔØµÄ°æ±¾²¢ÉèÖÃÎªÄ¬ÈÏ
 
-### jadx-gui æ›´æ–°æ–¹æ³•
-1. ä» [jadx ä¸‹è½½ç•Œé¢](https://github.com/skylot/jadx/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ **jadx-gui-x.x.x-no-jre-win.exe**
-2. é‡å‘½åä¸º **jadx-gui.exe**ï¼Œæ”¾åœ¨ `tools/JadxGui/` ç›®å½•ä¸‹è¦†ç›–æ—§ç‰ˆå³å¯
+   ![Õ¹Ê¾](docs/images/image1.png)
+   ![Õ¹Ê¾](docs/images/image2.png)
 
-## æ³¨æ„äº‹é¡¹ & ä¸€äº›é—®é¢˜
+### dex2jar ¸üĞÂ·½·¨
 
-- ç¼–è¯‘åº”ç”¨æ—¶è¯·å‹¾é€‰ AndroidKiller ç­¾åï¼Œå¦åˆ™å¯èƒ½å¯¼è‡´ç¼–è¯‘å‡ºçš„ apk æ–‡ä»¶ä¸æ­£å¸¸
-- ç¼–è¯‘åå®‰è£…æŠ¥é”™ï¼š`Failure [INSTALL_FAILED_INVALID_APK: Failed to extract native libraries, res=-2]`ï¼Œè¯·å°† `AndroidManifest.xml` æ–‡ä»¶ä¸­çš„ `extractNativeLibs=false` ä¿®æ”¹ä¸º `extractNativeLibs=true`ï¼Œå¹¶å°è¯•å†æ¬¡ç¼–è¯‘å®‰è£…
+1. ´Ó [dex2jar ÏÂÔØÒ³Ãæ](https://github.com/pxb1988/dex2jar/releases) ÏÂÔØ×îĞÂ°æµÄ `dex-tools-xxx.zip`£¨¾É°æÃûÎª `dex2jar-xxx.zip`£©
+2. Çå¿Õ `bin/dex2jar/` Ä¿Â¼ÏÂÎÄ¼ş£¬½«ÏÂÔØµÃµ½µÄÑ¹Ëõ°üÄÚÈİÈ«²¿½âÑ¹ËõÖÁ¸ÃÄ¿Â¼
+
+### jadx-gui ¸üĞÂ·½·¨
+
+1. ´Ó [jadx ÏÂÔØ½çÃæ](https://github.com/skylot/jadx/releases) ÏÂÔØ×îĞÂ°æµÄ `jadx-gui-x.x.x-win.zip`£¨¾É°æÎª `jadx-gui-x.x.x-no-jre.exe`£©
+2. ½«Ñ¹Ëõ°üÄÚÈİ½âÑ¹ÖÁ `tools/JadxGui/` Ä¿Â¼ÏÂ£¬ÖØÃüÃû `jadx-gui-x.x.x.exe` Îª `jadx-gui.exe`£¬¸²¸Ç¾É°æ£¨¾É°æÖ±½ÓÖØÃüÃû¿ÉÖ´ĞĞ³ÌĞò£¬ºó¸²¸Ç¼´¿É£©
+
+## ×¢ÒâÊÂÏî & Ò»Ğ©ÎÊÌâ
+
+- ±àÒëÓ¦ÓÃÊ±Çë¹´Ñ¡ AndroidKiller Ç©Ãû£¬·ñÔò±àÒë³öµÄ apk ÎÄ¼ş¸ÅÂÊ²»ÄÜÕı³£Ê¹ÓÃ
+- ±àÒëºó°²×°±¨´í "Failure [INSTALL_FAILED_INVALID_APK: Failed to extract native libraries, res=-2]"£¿ Çë½« `AndroidManifest.xml` ÎÄ¼şÖĞµÄ `extractNativeLibs=false` ĞŞ¸ÄÎª `extractNativeLibs=true`£¬ÔÙ´Î³¢ÊÔ
