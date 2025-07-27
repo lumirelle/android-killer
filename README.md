@@ -1,7 +1,19 @@
 # Android Killer
 
-> Attention: This project uses charset GB2312 for compatibly reason.
+> [!CAUTION] Windows Defender 报毒问题
+> 
+>  介是一个已知的由 Android Killer 自己 & Windows Defender 的检测策略导致的问题。
 >
+> Android Killer 是由 [legend_brother](https://www.52pojie.cn/home.php?mod=space&uid=366193) 开发并发布在 [52pojie](https://www.52pojie.cn/thread-319641-1-1.html) 和 [pd521](https://www.pd521.com/thread-136-1-1.html) 于 2014 ~ 2015，年久失修，也许在开发之初留下了一些现在可能会被检测为病毒的特性。
+> 
+> Windows Defender 的检测规则对软件逆向工具有些太严格了。推荐使用 [Kaspersky](https://www.kaspersky.com/) 或 [火绒](https://www.huorong.cn/) 代替 Windows Defender（如果你有经常使用逆向、注册机等工具但又想保持一定的系统安全性的话）
+> 
+> 这是 [VirusTotal](https://www.virustotal.com/gui/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) 的检测结果，仅有两家供应商显示 Android Killer 是“可能涉嫌恶意”和“潜在的危险”。
+> 
+> 这是 [微步云沙箱](https://s.threatbook.com/report/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) 的检测结果，表面 Android Killer 不是病毒。
+> 
+> 如果你担心使用 Android Killer 会给你带来危害，你可以前往 [52pojie](https://www.52pojie.cn/forum.php) 社区（Android Killer 诞生的地方之一）寻找其它软件逆向工具。
+
 > 注意：出于兼容性原因，本项目使用 GB2312 字符集。
 
 整合并更新最最最最经典的 Android 反编译工具 —— Android Killer，让它再战 20 年！
