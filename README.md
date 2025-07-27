@@ -1,68 +1,68 @@
 # Android Killer
 
-> [!CAUTION] Windows Defender ±¨¶¾ÎÊÌâ
+> [!Caaution] Windows Defender æŠ¥æ¯’é—®é¢˜
 > 
->  ½éÊÇÒ»¸öÒÑÖªµÄÓÉ Android Killer ×Ô¼º & Windows Defender µÄ¼ì²â²ßÂÔµ¼ÖÂµÄÎÊÌâ¡£
+>  ä»‹æ˜¯ä¸€ä¸ªå·²çŸ¥çš„ç”± Android Killer è‡ªå·± & Windows Defender çš„æ£€æµ‹ç­–ç•¥å¯¼è‡´çš„é—®é¢˜ã€‚
 >
-> Android Killer ÊÇÓÉ [legend_brother](https://www.52pojie.cn/home.php?mod=space&uid=366193) ¿ª·¢²¢·¢²¼ÔÚ [52pojie](https://www.52pojie.cn/thread-319641-1-1.html) ºÍ [pd521](https://www.pd521.com/thread-136-1-1.html) ÓÚ 2014 ~ 2015£¬Äê¾ÃÊ§ĞŞ£¬Ò²ĞíÔÚ¿ª·¢Ö®³õÁôÏÂÁËÒ»Ğ©ÏÖÔÚ¿ÉÄÜ»á±»¼ì²âÎª²¡¶¾µÄÌØĞÔ¡£
+> Android Killer æ˜¯ç”± [legend_brother](https://www.52pojie.cn/home.php?mod=space&uid=366193) å¼€å‘å¹¶å‘å¸ƒåœ¨ [52pojie](https://www.52pojie.cn/thread-319641-1-1.html) å’Œ [pd521](https://www.pd521.com/thread-136-1-1.html) äº 2014 ~ 2015ï¼Œå¹´ä¹…å¤±ä¿®ï¼Œä¹Ÿè®¸åœ¨å¼€å‘ä¹‹åˆç•™ä¸‹äº†ä¸€äº›ç°åœ¨å¯èƒ½ä¼šè¢«æ£€æµ‹ä¸ºç—…æ¯’çš„ç‰¹æ€§ã€‚
 > 
-> Windows Defender µÄ¼ì²â¹æÔò¶ÔÈí¼şÄæÏò¹¤¾ßÓĞĞ©Ì«ÑÏ¸ñÁË¡£ÍÆ¼öÊ¹ÓÃ [Kaspersky](https://www.kaspersky.com/) »ò [»ğÈŞ](https://www.huorong.cn/) ´úÌæ Windows Defender£¨Èç¹ûÄãÓĞ¾­³£Ê¹ÓÃÄæÏò¡¢×¢²á»úµÈ¹¤¾ßµ«ÓÖÏë±£³ÖÒ»¶¨µÄÏµÍ³°²È«ĞÔµÄ»°£©
+> Windows Defender çš„æ£€æµ‹è§„åˆ™å¯¹è½¯ä»¶é€†å‘å·¥å…·æœ‰äº›å¤ªä¸¥æ ¼äº†ã€‚æ¨èä½¿ç”¨ [Kaspersky](https://www.kaspersky.com/) æˆ– [ç«ç»’](https://www.huorong.cn/) ä»£æ›¿ Windows Defenderï¼ˆå¦‚æœä½ æœ‰ç»å¸¸ä½¿ç”¨é€†å‘ã€æ³¨å†Œæœºç­‰å·¥å…·ä½†åˆæƒ³ä¿æŒä¸€å®šçš„ç³»ç»Ÿå®‰å…¨æ€§çš„è¯ï¼‰
 > 
-> ÕâÊÇ [VirusTotal](https://www.virustotal.com/gui/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) µÄ¼ì²â½á¹û£¬½öÓĞÁ½¼Ò¹©Ó¦ÉÌÏÔÊ¾ Android Killer ÊÇ¡°¿ÉÄÜÉæÏÓ¶ñÒâ¡±ºÍ¡°Ç±ÔÚµÄÎ£ÏÕ¡±¡£
+> è¿™æ˜¯ [VirusTotal](https://www.virustotal.com/gui/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) çš„æ£€æµ‹ç»“æœï¼Œä»…æœ‰ä¸¤å®¶ä¾›åº”å•†æ˜¾ç¤º Android Killer æ˜¯â€œå¯èƒ½æ¶‰å«Œæ¶æ„â€å’Œâ€œæ½œåœ¨çš„å±é™©â€ã€‚
 > 
-> ÕâÊÇ [Î¢²½ÔÆÉ³Ïä](https://s.threatbook.com/report/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) µÄ¼ì²â½á¹û£¬±íÃæ Android Killer ²»ÊÇ²¡¶¾¡£
+> è¿™æ˜¯ [å¾®æ­¥äº‘æ²™ç®±](https://s.threatbook.com/report/file/93816beef6269be75cc78f8c056cc4345e8e1263df2b34d65539d1650eb1e6cf) çš„æ£€æµ‹ç»“æœï¼Œè¡¨é¢ Android Killer ä¸æ˜¯ç—…æ¯’ã€‚
 > 
-> Èç¹ûÄãµ£ĞÄÊ¹ÓÃ Android Killer »á¸øÄã´øÀ´Î£º¦£¬Äã¿ÉÒÔÇ°Íù [52pojie](https://www.52pojie.cn/forum.php) ÉçÇø£¨Android Killer µ®ÉúµÄµØ·½Ö®Ò»£©Ñ°ÕÒÆäËüÈí¼şÄæÏò¹¤¾ß¡£
+> å¦‚æœä½ æ‹…å¿ƒä½¿ç”¨ Android Killer ä¼šç»™ä½ å¸¦æ¥å±å®³ï¼Œä½ å¯ä»¥å‰å¾€ [52pojie](https://www.52pojie.cn/forum.php) ç¤¾åŒºï¼ˆAndroid Killer è¯ç”Ÿçš„åœ°æ–¹ä¹‹ä¸€ï¼‰å¯»æ‰¾å…¶å®ƒè½¯ä»¶é€†å‘å·¥å…·ã€‚
 
-> ×¢Òâ£º³öÓÚ¼æÈİĞÔÔ­Òò£¬±¾ÏîÄ¿Ê¹ÓÃ GB2312 ×Ö·û¼¯¡£
+> æ³¨æ„ï¼šå‡ºäºå…¼å®¹æ€§åŸå› ï¼Œæœ¬é¡¹ç›®ä½¿ç”¨ GB2312 å­—ç¬¦é›†ã€‚
 
-ÕûºÏ²¢¸üĞÂ×î×î×î×î¾­µäµÄ Android ·´±àÒë¹¤¾ß ¡ª¡ª Android Killer£¬ÈÃËüÔÙÕ½ 20 Äê£¡
+æ•´åˆå¹¶æ›´æ–°æœ€æœ€æœ€æœ€ç»å…¸çš„ Android åç¼–è¯‘å·¥å…· â€”â€” Android Killerï¼Œè®©å®ƒå†æˆ˜ 20 å¹´ï¼
 
-Ë¼Â·ºÍ·½·¨À´×Ô´óÀĞ[×òÒ¹ĞÇ³½ 2012](https://www.52pojie.cn/home.php?mod=space&uid=571540&do=profile&from=space) µÄ [AndroidKiller °²×°¡¢ÉèÖÃ¼°Ê¹ÓÃ½Ì³Ì](https://www.52pojie.cn/thread-726176-1-1.html)¡£
+æ€è·¯å’Œæ–¹æ³•æ¥è‡ªå¤§ä½¬[æ˜¨å¤œæ˜Ÿè¾° 2012](https://www.52pojie.cn/home.php?mod=space&uid=571540&do=profile&from=space) çš„ [AndroidKiller å®‰è£…ã€è®¾ç½®åŠä½¿ç”¨æ•™ç¨‹](https://www.52pojie.cn/thread-726176-1-1.html)ã€‚
 
-¹¤¾ß±Ï¾¹ºÜÀÏÁË£¬ÎŞÂÛÊÇ½çÃæ»¹ÊÇ¹¦ÄÜÉÏ¶¼²»¾¡ÈËÒâ£¬Ğ¡µÄÔÚ´Ë»¹ÊÇÍÆ¼ö¿Í¹Ù³¢ÊÔ JEB Decompiler 3 µÈÈÔÔÚÎ¬»¤µÄ Android ·´±àÒë¹¤¾ß¡£
+å·¥å…·æ¯•ç«Ÿå¾ˆè€äº†ï¼Œæ— è®ºæ˜¯ç•Œé¢è¿˜æ˜¯åŠŸèƒ½ä¸Šéƒ½ä¸å°½äººæ„ï¼Œå°çš„åœ¨æ­¤è¿˜æ˜¯æ¨èå®¢å®˜å°è¯• JEB Decompiler 3 ç­‰ä»åœ¨ç»´æŠ¤çš„ Android åç¼–è¯‘å·¥å…·ã€‚
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-µã»÷[´Ë´¦](../../archive/refs/heads/main.zip)ÏÂÔØ×îĞÂÑ¹Ëõ°ü£¬½âÑ¹ºó´ò¿ªÄ¿Â¼£¬Ë«»÷Æô¶¯ AndroidKiller.exe ¼´¿É¡£
+ç‚¹å‡»[æ­¤å¤„](../../archive/refs/heads/main.zip)ä¸‹è½½æœ€æ–°å‹ç¼©åŒ…ï¼Œè§£å‹åæ‰“å¼€ç›®å½•ï¼ŒåŒå‡»å¯åŠ¨ AndroidKiller.exe å³å¯ã€‚
 
-Android Killer µÄÏêÏ¸Ê¹ÓÃ½Ì³ÌÇë[²Î¿¼´ËÎÄ](https://blog.csdn.net/yiran1919/article/details/132760445)»ò×ÔĞĞËÑË÷¡£
+Android Killer çš„è¯¦ç»†ä½¿ç”¨æ•™ç¨‹è¯·[å‚è€ƒæ­¤æ–‡](https://blog.csdn.net/yiran1919/article/details/132760445)æˆ–è‡ªè¡Œæœç´¢ã€‚
 
-**×¢ÒâÊÂÏî£ºÊ¹ÓÃ±¾¹¤¾ßÇ°£¬ÄúĞèÒªÔÚµçÄÔÅäÖÃºÃ Java ÔËĞĞ»·¾³¡£**
+**æ³¨æ„äº‹é¡¹ï¼šä½¿ç”¨æœ¬å·¥å…·å‰ï¼Œæ‚¨éœ€è¦åœ¨ç”µè„‘é…ç½®å¥½ Java è¿è¡Œç¯å¢ƒã€‚**
 
-## ¸üĞÂÄÚÈİ
+## æ›´æ–°å†…å®¹
 
 - `bin/`
-  - ¸üĞÂ adb ºÍ busybox£¬°æ±¾ÍüÁË£¨ÄÜÓÃ¾ÍĞĞ£¬²»ÄÜÔÙËµ ?£©
-  - ¸üĞÂ apktool.jar ÖÁ v2.11.1
-  - ¸üĞÂ dex2jar ÖÁ v2.4
-  - ÆúÓÃ Android Killer ÄÚÖÃµÄ jd-gui£¬Ê¹ÓÃ×Ô¼º±àĞ´µÄÖĞ¼ä³ÌĞò [android-killer-jadx-gui-support](../../../android-killer-jadx-gui-support) ½«²Ù×÷×ª·¢ÖÁ jadx-gui
+  - æ›´æ–° adb å’Œ busyboxï¼Œç‰ˆæœ¬å¿˜äº†ï¼ˆèƒ½ç”¨å°±è¡Œï¼Œä¸èƒ½å†è¯´ ?ï¼‰
+  - æ›´æ–° apktool.jar è‡³ v2.11.1
+  - æ›´æ–° dex2jar è‡³ v2.4
+  - å¼ƒç”¨ Android Killer å†…ç½®çš„ jd-guiï¼Œä½¿ç”¨è‡ªå·±ç¼–å†™çš„ä¸­é—´ç¨‹åº [android-killer-jadx-gui-support](../../../android-killer-jadx-gui-support) å°†æ“ä½œè½¬å‘è‡³ jadx-gui
 - `tools/`
-  - Ìí¼Ó [ApkScan PKID](http://www.legendsec.org/1888.html) ²é¿Ç¹¤¾ß£¨¹¤¾ßÄê´ú¾ÃÔ¶£¬Ğ§¹ûÎŞ·¨±£Ö¤£¬½¨ÒéÑ°ÕÒÌæ´ú·½°¸£©
-  - Ìí¼Ó [InjectLog](https://www.52pojie.cn/thread-743758-1-1.html) ÈÕÖ¾¹¤¾ß£¬ÓÖ¼û [Android Ó¦ÓÃÄæÏò¡ª¡ª·ÖÎö·´±àÒë´úÂëÖ®´óÉñÆ÷](https://blog.csdn.net/charlessimonyi/article/details/52027563)
-  - Ìí¼Ó jadx-gui ÎŞÀ¦°ó jre °æ±¾£¬¸üĞÂÖÁ v1.4.7£¨GitHub ÉÏ´«µ¥ÎÄ¼şÌå»ıÏŞÖÆ 100MB£¬v1.5.0+ °æ±¾³¬ÏŞ£¬ÈçÄúÓĞ¸üĞÂĞèÒª£¬Çë³¢ÊÔ[×ÔĞĞ¸üĞÂ](#jadx-gui-¸üĞÂ·½·¨)£©
+  - æ·»åŠ  [ApkScan PKID](http://www.legendsec.org/1888.html) æŸ¥å£³å·¥å…·ï¼ˆå·¥å…·å¹´ä»£ä¹…è¿œï¼Œæ•ˆæœæ— æ³•ä¿è¯ï¼Œå»ºè®®å¯»æ‰¾æ›¿ä»£æ–¹æ¡ˆï¼‰
+  - æ·»åŠ  [InjectLog](https://www.52pojie.cn/thread-743758-1-1.html) æ—¥å¿—å·¥å…·ï¼Œåˆè§ [Android åº”ç”¨é€†å‘â€”â€”åˆ†æåç¼–è¯‘ä»£ç ä¹‹å¤§ç¥å™¨](https://blog.csdn.net/charlessimonyi/article/details/52027563)
+  - æ·»åŠ  jadx-gui æ— æ†ç»‘ jre ç‰ˆæœ¬ï¼Œæ›´æ–°è‡³ v1.4.7ï¼ˆGitHub ä¸Šä¼ å•æ–‡ä»¶ä½“ç§¯é™åˆ¶ 100MBï¼Œv1.5.0+ ç‰ˆæœ¬è¶…é™ï¼Œå¦‚æ‚¨æœ‰æ›´æ–°éœ€è¦ï¼Œè¯·å°è¯•[è‡ªè¡Œæ›´æ–°](#jadx-gui-æ›´æ–°æ–¹æ³•)ï¼‰
 
-## ×ÔĞĞ¸üĞÂ
+## è‡ªè¡Œæ›´æ–°
 
-### apktool ¸üĞÂ·½·¨
+### apktool æ›´æ–°æ–¹æ³•
 
-1. ´Ó [apktool ÏÂÔØÒ³Ãæ](https://github.com/iBotPeaches/Apktool/releases) ÏÂÔØ×îĞÂ°æµÄ `apktool_x.x.x.jar`
-2. ·ÅÖÃÔÚ `bin/apktool/apktool/` Ä¿Â¼ÏÂ£¬´ò¿ª **Android Killer** Ê×Ò³µÄ **Android** ²Ëµ¥²¢´ò¿ª **APKTOOL ¹ÜÀíÆ÷**£¬Ìí¼ÓÏÂÔØµÄ°æ±¾²¢ÉèÖÃÎªÄ¬ÈÏ
+1. ä» [apktool ä¸‹è½½é¡µé¢](https://github.com/iBotPeaches/Apktool/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ `apktool_x.x.x.jar`
+2. æ”¾ç½®åœ¨ `bin/apktool/apktool/` ç›®å½•ä¸‹ï¼Œæ‰“å¼€ **Android Killer** é¦–é¡µçš„ **Android** èœå•å¹¶æ‰“å¼€ **APKTOOL ç®¡ç†å™¨**ï¼Œæ·»åŠ ä¸‹è½½çš„ç‰ˆæœ¬å¹¶è®¾ç½®ä¸ºé»˜è®¤
 
-   ![Õ¹Ê¾](docs/images/image1.png)
-   ![Õ¹Ê¾](docs/images/image2.png)
+   ![å±•ç¤º](docs/images/image1.png)
+   ![å±•ç¤º](docs/images/image2.png)
 
-### dex2jar ¸üĞÂ·½·¨
+### dex2jar æ›´æ–°æ–¹æ³•
 
-1. ´Ó [dex2jar ÏÂÔØÒ³Ãæ](https://github.com/pxb1988/dex2jar/releases) ÏÂÔØ×îĞÂ°æµÄ `dex-tools-xxx.zip`£¨¾É°æÃûÎª `dex2jar-xxx.zip`£©
-2. Çå¿Õ `bin/dex2jar/` Ä¿Â¼ÏÂÎÄ¼ş£¬½«ÏÂÔØµÃµ½µÄÑ¹Ëõ°üÄÚÈİÈ«²¿½âÑ¹ËõÖÁ¸ÃÄ¿Â¼
+1. ä» [dex2jar ä¸‹è½½é¡µé¢](https://github.com/pxb1988/dex2jar/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ `dex-tools-xxx.zip`ï¼ˆæ—§ç‰ˆåä¸º `dex2jar-xxx.zip`ï¼‰
+2. æ¸…ç©º `bin/dex2jar/` ç›®å½•ä¸‹æ–‡ä»¶ï¼Œå°†ä¸‹è½½å¾—åˆ°çš„å‹ç¼©åŒ…å†…å®¹å…¨éƒ¨è§£å‹ç¼©è‡³è¯¥ç›®å½•
 
-### jadx-gui ¸üĞÂ·½·¨
+### jadx-gui æ›´æ–°æ–¹æ³•
 
-1. ´Ó [jadx ÏÂÔØ½çÃæ](https://github.com/skylot/jadx/releases) ÏÂÔØ×îĞÂ°æµÄ `jadx-gui-x.x.x-win.zip`£¨¾É°æÎª `jadx-gui-x.x.x-no-jre.exe`£©
-2. ½«Ñ¹Ëõ°üÄÚÈİ½âÑ¹ÖÁ `tools/JadxGui/` Ä¿Â¼ÏÂ£¬ÖØÃüÃû `jadx-gui-x.x.x.exe` Îª `jadx-gui.exe`£¬¸²¸Ç¾É°æ£¨¾É°æÖ±½ÓÖØÃüÃû¿ÉÖ´ĞĞ³ÌĞò£¬ºó¸²¸Ç¼´¿É£©
+1. ä» [jadx ä¸‹è½½ç•Œé¢](https://github.com/skylot/jadx/releases) ä¸‹è½½æœ€æ–°ç‰ˆçš„ `jadx-gui-x.x.x-win.zip`ï¼ˆæ—§ç‰ˆä¸º `jadx-gui-x.x.x-no-jre.exe`ï¼‰
+2. å°†å‹ç¼©åŒ…å†…å®¹è§£å‹è‡³ `tools/JadxGui/` ç›®å½•ä¸‹ï¼Œé‡å‘½å `jadx-gui-x.x.x.exe` ä¸º `jadx-gui.exe`ï¼Œè¦†ç›–æ—§ç‰ˆï¼ˆæ—§ç‰ˆç›´æ¥é‡å‘½åå¯æ‰§è¡Œç¨‹åºï¼Œåè¦†ç›–å³å¯ï¼‰
 
-## ×¢ÒâÊÂÏî & Ò»Ğ©ÎÊÌâ
+## æ³¨æ„äº‹é¡¹ & ä¸€äº›é—®é¢˜
 
-- ±àÒëÓ¦ÓÃÊ±Çë¹´Ñ¡ AndroidKiller Ç©Ãû£¬·ñÔò±àÒë³öµÄ apk ÎÄ¼ş¸ÅÂÊ²»ÄÜÕı³£Ê¹ÓÃ
-- ±àÒëºó°²×°±¨´í "Failure [INSTALL_FAILED_INVALID_APK: Failed to extract native libraries, res=-2]"£¿ Çë½« `AndroidManifest.xml` ÎÄ¼şÖĞµÄ `extractNativeLibs=false` ĞŞ¸ÄÎª `extractNativeLibs=true`£¬ÔÙ´Î³¢ÊÔ
+- ç¼–è¯‘åº”ç”¨æ—¶è¯·å‹¾é€‰ AndroidKiller ç­¾åï¼Œå¦åˆ™ç¼–è¯‘å‡ºçš„ apk æ–‡ä»¶æ¦‚ç‡ä¸èƒ½æ­£å¸¸ä½¿ç”¨
+- ç¼–è¯‘åå®‰è£…æŠ¥é”™ "Failure [INSTALL_FAILED_INVALID_APK: Failed to extract native libraries, res=-2]"ï¼Ÿ è¯·å°† `AndroidManifest.xml` æ–‡ä»¶ä¸­çš„ `extractNativeLibs=false` ä¿®æ”¹ä¸º `extractNativeLibs=true`ï¼Œå†æ¬¡å°è¯•
